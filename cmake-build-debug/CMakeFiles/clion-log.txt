@@ -1,4 +1,0 @@
-/home/dubois/Téléchargements/clion-2017.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/dubois/tek2/indieDtudio/testirrlish
--- Configuring done
--- Generating done
--- Build files have been written to: /home/dubois/tek2/indieDtudio/testirrlish/cmake-build-debug

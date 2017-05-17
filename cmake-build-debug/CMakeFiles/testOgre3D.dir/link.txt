@@ -1,1 +1,0 @@
-/usr/bin/c++   -g   CMakeFiles/testOgre3D.dir/main.cpp.o  -o testOgre3D 
